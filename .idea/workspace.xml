@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6d45b30-221b-419f-8708-f29b1e61d947" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+  </component>
+  <component name="ProjectId" id="1YzdAxg8cuXBdudWVcUi5EPJscm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bombz\OneDrive\Pycharm\momentum" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Desk_samsung\Anaconda3\envs\py37_32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6d45b30-221b-419f-8708-f29b1e61d947" name="Default Changelist" comment="" />
+      <created>1583949216114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583949216114</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="595" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584643356746">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="0" y="595" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.0.1440.860/0.0.1080.1880@0.0.1080.1880" timestamp="1584643356746" />
+    <state x="341" y="695" key="FileChooserDialogImpl" timestamp="1584643368205">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="341" y="695" key="FileChooserDialogImpl/-1440.0.1440.860/0.0.1080.1880@0.0.1080.1880" timestamp="1584643368205" />
+    <state x="341" y="695" key="FileChooserDialogImpl/0.0.1080.1880@0.0.1080.1880" timestamp="1584237696132" />
+    <state x="-821" y="695" key="FileChooserDialogImpl/0.0.1422.760/-1200.0.1200.1880@-1200.0.1200.1880" timestamp="1583949577379" />
+    <state x="409" y="830" key="Github.ShareDialog" timestamp="1584643390381">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="409" y="830" key="Github.ShareDialog/-1440.0.1440.860/0.0.1080.1880@0.0.1080.1880" timestamp="1584643390381" />
+    <state x="82" y="57" key="SettingsEditor" timestamp="1584635282642">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="82" y="57" key="SettingsEditor/-1440.0.1440.860/0.0.1080.1880@0.0.1080.1880" timestamp="1584635282642" />
+    <state x="82" y="57" key="SettingsEditor/0.0.1080.1880@0.0.1080.1880" timestamp="1584537687421" />
+    <state x="-1019" y="57" key="SettingsEditor/0.0.1422.760/-1200.0.1200.1880@-1200.0.1200.1880" timestamp="1583956195668" />
+    <state x="214" y="23" key="SettingsEditor/0.0.1422.760/-1200.0.1200.1880@0.0.1422.760" timestamp="1583949461087" />
+    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup" timestamp="1584643803160">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup/-1440.0.1440.860/0.0.1080.1880@0.0.1080.1880" timestamp="1584643803160" />
+  </component>
+</project>
